@@ -1,0 +1,11 @@
+# WordPress 
+*
+!/.gitignore
+!wp-content/
+!wp-content/themes/
+!wp-content/themes/r3HeadlessWP/
+!wp-content/themes/r3HeadlessWP/**/*
+
+# Defaults
+.DS_Store
+node_modules
