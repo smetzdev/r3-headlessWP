@@ -6,8 +6,6 @@
 !wp-content/themes/
 !wp-content/themes/r3HeadlessWP/
 !wp-content/themes/r3HeadlessWP/**/*
-!wp-content/plugins/
-!wp-content/plugins/**/*
 
 # Defaults
 .DS_Store
