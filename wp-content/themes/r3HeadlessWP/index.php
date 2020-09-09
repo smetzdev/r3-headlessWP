@@ -1,3 +1,3 @@
 <?php 
 // Redirect everything to graphql endpoint
-header( 'Location: /graphql' );
+header( 'Location: /wp-admin' );
